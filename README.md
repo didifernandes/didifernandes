@@ -1,5 +1,5 @@
 <code>System.out.println("Bem vindo ao meu github!🖐️")</code></hr>
-style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofernandesss/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?
+style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofernandesss/)
 
 ![Diego Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=didifernandes&show_icons=true&theme=tokyonigth)
 

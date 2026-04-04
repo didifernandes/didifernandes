@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Interesse em Análise de Dados e Back-end  
-📊 Python | SQL | Java | Spring Boot  
+📊 Python | SQL | Java | Data Analysis  
 
 ---
 

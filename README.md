@@ -5,11 +5,7 @@ Analista de Implantação Jr. em transição para <b>Análise de Dados / BI</b> 
 Formado em Análise e Desenvolvimento de Sistemas | Pós-graduando em Ciência de Dados e IA
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diegofernandesss/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/diegofernandesss/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
